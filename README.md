@@ -17,8 +17,6 @@
 
 ## 👨‍💻 About Me
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abdulsamadxai&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-
 I'm a **Full Stack Engineer** and **Automation Builder** studying Bachelor's in AI at **COMSATS University Islamabad**. I build scalable web apps, AI-powered automations using n8n, and end-to-end systems from React frontends to Node.js backends.
 
 Currently working at **Techvent Global** while exploring the intersection of **AI and software engineering**.
@@ -61,12 +59,12 @@ const abdulSamad = {
 <table>
   <tr>
     <td align="center" width="300">
-      <b>⚡ Techvent Global</b><br/>
-      <sub>Software & Technology Company</sub>
+      <b>Techvent Global</b><br/>
+      <sub>Software &amp; Technology Company</sub>
     </td>
     <td align="center" width="300">
-      <b>🏛️ Khwaja Holdings</b><br/>
-      <sub>Real Estate & Investment</sub>
+      <b>Khwaja Holdings</b><br/>
+      <sub>Real Estate &amp; Investment</sub>
     </td>
   </tr>
 </table>
@@ -78,7 +76,7 @@ const abdulSamad = {
 
 <div align="center">
 
-| 🎓 Certificate | 🏛️ Issuer | 📅 Year |
+| Certificate | Issuer | Year |
 |:---|:---|:---:|
 | **AI for Everyone** | DeepLearning.ai | 2025 |
 | **Generative AI Fundamentals** | Microsoft | 2025 |
@@ -88,8 +86,11 @@ const abdulSamad = {
 
 <br/>
 
-<details open>
-<summary><h2>📊 Statistics</h2> <img height="20px" src="https://visitcount.itsvg.in/api?id=abdulsamadxai&label=Profile%20Views&color=6&icon=5&pretty=true" /></summary>
+## 📊 Statistics
+
+<div align="center">
+  <img height="20px" src="https://visitcount.itsvg.in/api?id=abdulsamadxai&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</div>
 
 <br/>
 
@@ -107,11 +108,8 @@ const abdulSamad = {
   <img src="https://github-readme-stats.vercel.app/api?username=abdulsamadxai&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
-</details>
-
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
-
