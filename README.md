@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-AI Engineering Intern at **Nayatel** · Studying **BSc Artificial Intelligence** at COMSATS University Islamabad · Building at the intersection of web development, automation, and AI.
+AI Engineering Intern at **Nayatel** · Studying **Bachelors in Artificial Intelligence** at COMSATS University Islamabad · Building at the intersection of web development, automation, and AI.
 
 ```javascript
 const abdulSamad = {
@@ -46,7 +46,7 @@ const abdulSamad = {
 |:---|:---|:---:|
 | **AI Engineering Intern** | Nayatel | 2026 – Present |
 | **Web Developer** | Techvent Global | Jan 2026 – Present |
-| **AI Automation Intern** | Khwaja Holdings | Nov 2025 – Dec 2025 |
+| **AI Automation Intern** | KHAWAJA Holdings | Nov 2025 – Dec 2025 |
 | **Data Entry Operator** | Mayfair | Nov 2024 – Dec 2024 |
 
 <br/>
@@ -66,7 +66,7 @@ const abdulSamad = {
 
 | Degree | Institution | Period |
 |:---|:---|:---:|
-| **BSc Artificial Intelligence** | COMSATS University Islamabad | Sep 2023 – Feb 2028 |
+| **Bachelors in Artificial Intelligence** | COMSATS University Islamabad | Sep 2023 – Feb 2028 |
 
 </div>
 
