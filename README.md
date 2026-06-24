@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <a href="mailto:abdulsamadx.ai@gmail.com"><img src="https://img.shields.io/badge/-Email-4A90D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/abdulsamadxai"><img src="https://img.shields.io/badge/-GitHub-4A90D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://shorturl.at/JR0I3"><img src="https://img.shields.io/badge/-Portfolio-4A90D9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:abdulsamadx.ai@gmail.com"><img src="https://img.shields.io/badge/-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/abdulsamadxai"><img src="https://img.shields.io/badge/-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://shorturl.at/JR0I3"><img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-AI Engineering Intern at **Nayatel** · Studying **Bachelors in Artificial Intelligence** at COMSATS University Islamabad · Building at the intersection of web development, automation, and AI.
+AI Engineering Intern at **Nayatel** · Studying **BSc Artificial Intelligence** at COMSATS University Islamabad · Building at the intersection of web development, automation, and AI.
 
 ```javascript
 const abdulSamad = {
@@ -46,7 +46,7 @@ const abdulSamad = {
 |:---|:---|:---:|
 | **AI Engineering Intern** | Nayatel | 2026 – Present |
 | **Web Developer** | Techvent Global | Jan 2026 – Present |
-| **AI Automation Intern** | KHAWAJA Holdings | Nov 2025 – Dec 2025 |
+| **AI Automation Intern** | Khwaja Holdings | Nov 2025 – Dec 2025 |
 | **Data Entry Operator** | Mayfair | Nov 2024 – Dec 2024 |
 
 <br/>
