@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-AI Engineering Intern at **Nayatel** · Studying **BSc Artificial Intelligence** at COMSATS University Islamabad · Building at the intersection of web development, automation, and AI.
+AI Engineering Intern at **Nayatel** · Studying **Bachelors in Artificial Intelligence** at COMSATS University Islamabad · Building at the intersection of web development, automation, and AI.
 
 ```javascript
 const abdulSamad = {
