@@ -57,12 +57,6 @@ const abdulSamad = {
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,react,nodejs,express,mysql,git,github,html,css,vscode,langchain&theme=dark&perline=8" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/n8n-4A90D9?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-4A90D9?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-4A90D9?style=for-the-badge&logo=groq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-4A90D9?style=for-the-badge&logo=databricks&logoColor=white"/>
-</div>
 
 <br/>
 
@@ -96,10 +90,10 @@ const abdulSamad = {
 
 <div align="center">
 
-![Urdu](https://img.shields.io/badge/Urdu-Native-4A90D9?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/English-Fluent-4A90D9?style=for-the-badge&logoColor=white)
-![Arabic](https://img.shields.io/badge/Arabic-Intermediate-4A90D9?style=for-the-badge&logoColor=white)
-![Punjabi](https://img.shields.io/badge/Punjabi-Native-4A90D9?style=for-the-badge&logoColor=white)
+![Urdu](https://img.shields.io/badge/Urdu-Native-7C3AED?style=for-the-badge&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-7C3AED?style=for-the-badge&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-Intermediate-7C3AED?style=for-the-badge&logoColor=white)
+![Punjabi](https://img.shields.io/badge/Punjabi-Native-7C3AED?style=for-the-badge&logoColor=white)
 
 </div>
 
