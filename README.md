@@ -44,7 +44,7 @@ const abdulSamad = {
 
 | Role | Company | Period |
 |:---|:---|:---:|
-| **AI Engineering Intern** | Nayatel | 2026 – Present |
+| **AI Engineering Intern** | Nayatel | Jun 2026 – Present |
 | **Web Developer** | Techvent Global | Jan 2026 – Present |
 | **AI Automation Intern** | KHAWAJA Holdings | Nov 2025 – Dec 2025 |
 | **Data Entry Operator** | Mayfair | Nov 2024 – Dec 2024 |
